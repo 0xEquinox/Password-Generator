@@ -35,3 +35,4 @@ pub fn password_gen(length: i32, letters: bool, numbers: bool, symbols: bool, al
 
     return password_string;
 }
+
